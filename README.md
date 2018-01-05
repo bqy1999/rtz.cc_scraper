@@ -19,3 +19,7 @@ ${start page}: the page number of the page you want to start with
 ${end page}: the page number of the page you want to end with
 
 > You may change the urls in .py files to get other images
+
+## Preview
+
+![preview](https://raw.githubusercontent.com/forewing/rtz.cc_scraper/master/previews/dirs.PNG)
